@@ -34,3 +34,4 @@ I love to read books and listen to music.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/finbarr-ihechukwu-661523253/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/finbizz.davinci/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white)](https:/wa.me/2348087514113)
