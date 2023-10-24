@@ -12,7 +12,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F38020?style=flat-square&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white)
 
 
 I am a Full Stack Developer with a huge love fo React.js, Expressjs, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
