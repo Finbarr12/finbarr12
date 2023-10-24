@@ -14,6 +14,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=MongoDB&logoColor=white)
 ![Expressjs](https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=Expressjs&logoColor=white)
+![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=Render&logoColor=white)
 
 
 I am a Full Stack Developer with a huge love fo React.js, Expressjs, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
