@@ -15,7 +15,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=MongoDB&logoColor=white)
-![Expressjs](https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=Expressjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=express&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-5EEBC4?style=flat-square&logo=Render&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-E05320?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=flat-square&logo=insomnia&logoColor=white)
