@@ -35,7 +35,7 @@ I love to read books and listen to music.
 - 📫 I am just one mail away - <a href = "mailto:https://ogbonnafinbarr@gmail.com">https://ogbonnafinbarr@gmail.com<a>
 - 😄 Pronouns: He's Happy 😄
 
-  <a href="https://app.daily.dev/finzi"><img src="https://api.daily.dev/devcards/v2/oKZ0fuT8aHGoHOG3DKoyR.png?type=default&r=yoi" width="356" alt="Finbarr's Dev Card"/></a>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=finbarr12&show_icons=true&locale=en&layout=compact" alt="finbarr" /></p>
 
 
 ### Where to find me
