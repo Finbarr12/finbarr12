@@ -36,7 +36,7 @@ I love to read books and listen to music.
 - 📫 I am just one mail away - <a href = "mailto:https://ogbonnafinbarr@gmail.com">https://ogbonnafinbarr@gmail.com<a>
 - 😄 Pronouns: He's Happy 😄
   
-<p align="left"> <a href="https://github.com/finbarr12/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finbarr12" alt="finbarr12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finbarr12" alt="finbarr12" /></a> </p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=finbarr12&show_icons=true&locale=en&layout=compact" alt="finbarr" /></p>
 
 
