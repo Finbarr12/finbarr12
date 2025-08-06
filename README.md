@@ -21,7 +21,7 @@
 ![Expressjs](https://img.shields.io/badge/Expressjs-black?style=flat-square&logo=express&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-5EEBC4?style=flat-square&logo=Render&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Sentry](https://img.shields.io/badge/sentry-85EA2D?style=flat-square&logo=sentry&logoColor=red)
+![Sentry](https://img.shields.io/badge/sentry-6E4781?style=flat-square&logo=sentry&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-E05320?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=flat-square&logo=insomnia&logoColor=white)
 
