@@ -3,7 +3,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-0081CB?style=flat-square&logo=next&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0081CB?style=flat-square&logo=nextjs&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-35DF79?style=flat-square&logo=Passport&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
