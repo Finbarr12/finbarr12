@@ -25,7 +25,7 @@
 ![Postman](https://img.shields.io/badge/Postman-E05320?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=flat-square&logo=insomnia&logoColor=white)
 ![Aws](https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=aws&logoColor=white)
-![Cpanel](https://img.shields.io/badge/cpanel-purple?style=flat-square&logo=cpanel&logoColor=white)
+![Cpanel](https://img.shields.io/badge/cpanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 
 
 I am a Full Stack Developer with a huge love fo React.js, Expressjs, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
