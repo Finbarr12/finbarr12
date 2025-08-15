@@ -24,7 +24,7 @@
 ![Sentry](https://img.shields.io/badge/sentry-6E4781?style=flat-square&logo=sentry&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-E05320?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=flat-square&logo=insomnia&logoColor=white)
-![Aws](https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=amazon&logoColor=white)
+![Aws](https://img.shields.io/badge/Aws-232F3E?style=flat-square&logo=aws&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/cpanel-purple?style=flat-square&logo=cpanel&logoColor=white)
 
 
