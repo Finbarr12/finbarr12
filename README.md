@@ -24,6 +24,8 @@
 ![Sentry](https://img.shields.io/badge/sentry-6E4781?style=flat-square&logo=sentry&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-E05320?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=flat-square&logo=insomnia&logoColor=white)
+![Aws](https://img.shields.io/badge/aws-purple?style=flat-square&logo=aws&logoColor=white)
+![Cpanel](https://img.shields.io/badge/cpanel-purple?style=flat-square&logo=cpanel&logoColor=white)
 
 
 I am a Full Stack Developer with a huge love fo React.js, Expressjs, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
